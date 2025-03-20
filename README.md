@@ -1,2 +1,0 @@
-# JavaFX-Swing
-Animation
